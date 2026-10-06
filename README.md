@@ -1,6 +1,8 @@
 **WRGB**
 
-A light Ghostty theme for macOS. One file, hand-maintained: a white plate, near-black text, and saturated ANSI colors.
+Primary color Ghostty theme for macOS. One file, hand-maintained: a white plate, near-black text, and saturated ANSI colors.
+
+![rgb](assets/rgb.png)
 
 ![Terminal Mock](assets/Terminal-Mock.png)
 ![wrgb ######](assets/wrgb-.png)
